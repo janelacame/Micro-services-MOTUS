@@ -9,13 +9,14 @@ Entrer "node api.js" pour run le serveur
 
 ## Run le HAProxy
 Run un deuxième serveur sur un autre numéro de port
-[...]
+Aller dans le dossier contenant le fichier de code **1_simple_proxy** en utilisant la commande "cd"
+Entrer [...]
 
 ## Run l'application
 Ouvrir un navigateur
 Entrer "localhost:numPort/index.html
 
-## Règles du jeu
+## Règles du jeu du MOTUS
 Le joueur doit entrer son login dans le formulaire de la page **login.html** puis est redirigé vers la page **index.html**.
 
 Le joueur est face à un nouveau formulaire. Il connaît la longeuur ainsi la 1 ière lettre du mot à deviner.
