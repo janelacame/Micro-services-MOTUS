@@ -3,9 +3,9 @@ Jeu du motus - architecture micro-services
 Par BORGET Valentin et JANELA CAMEIJO Alice
 
 ## Run le projet
-Ouvrir un terminal
-Aller dans le dossier du projet en utilisant la commande "cd"
-Ecrire "(sudo) docker-compose up" pour run le projet.
+Ouvrir un terminal => aller dans le dossier du projet en utilisant la commande "cd" => écrire "(sudo) docker-compose up" pour run le projet.
+
+Pour profiter pleinement de l'expérience, il est conseillé d'activer le son sur son PC.
 
 ## Règles du jeu du MOTUS
 Le joueur doit se connecter au jeu en entrant son login et son mot de passe dans le formulaire de la page **login.html**. Il est ensuite redirigé vers la page **index.html**.
