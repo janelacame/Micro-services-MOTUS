@@ -1,5 +1,7 @@
 # Micro-services-MOTUS
+
 Jeu du motus - architecture micro-services
+
 Par BORGET Valentin et JANELA CAMEIJO Alice
 
 ## Run le projet
