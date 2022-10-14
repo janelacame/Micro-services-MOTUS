@@ -13,7 +13,7 @@ Ouvrir un terminal => aller dans le dossier du projet en utilisant la commande "
 - !!! Si vous êtes épileptique ou sensible aux flashs, faites attention à la page score. 
 
 + NOTE : actuellement le motà deviner s'affiche sur la page index.html pour permettre de le deviner plus facilement. 
-+ Il est possible d'ajouter **style="display:none"** à la balise ligne 44 du fichier de code pour réellement jouer au jeu.
++ Il est possible d'ajouter "style="display:none"" à la balise ligne 44 du fichier de code pour réellement jouer au jeu.
 ```
 
 ## Règles du jeu du MOTUS
