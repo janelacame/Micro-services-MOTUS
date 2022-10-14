@@ -32,3 +32,13 @@ Le micro-service d'authentification est gére en grande partie par le serveur **
 
 ## Diagrame service de score :
 Le micro-service de score est gére en grande partie par le serveur **api_score.js** port 4000.
+[![](https://mermaid.ink/img/pako:eNp9kT9PwzAQxb9K5MWtUpJIMFmiLAgJBhiyRkKufUlM_SfYF0HV9rtjEyAdWjzdk9-9--luT4STQBgJ8D6CFXCveOe5aWwWn7ISPosejb5ar3M-qNcgnIfiLWQs6xEHVpbaCa57F5DdVFVVBsA6eUqaBwhBOVuj87yDogN8RDALOgbwdJnTaHmqX56LgF7ZTrW7RfqZRiwngNORCWEj5SlCGwoPXD4oDdnhkOSHVwjf-nxA1LE6A3-d4KPQGy62U8tdWs0tzdFtweb0L_AnaopNy8ku5c2WqXnWM8v_zWRFDHjDlYw32qeUhmAPBhrCYimh5aPGhjT2GK18RFfvrCAM_QgrMg6S4-9JCWu5DnD8AvjoqSc)](https://mermaid.live/edit#pako:eNp9kT9PwzAQxb9K5MWtUpJIMFmiLAgJBhiyRkKufUlM_SfYF0HV9rtjEyAdWjzdk9-9--luT4STQBgJ8D6CFXCveOe5aWwWn7ISPosejb5ar3M-qNcgnIfiLWQs6xEHVpbaCa57F5DdVFVVBsA6eUqaBwhBOVuj87yDogN8RDALOgbwdJnTaHmqX56LgF7ZTrW7RfqZRiwngNORCWEj5SlCGwoPXD4oDdnhkOSHVwjf-nxA1LE6A3-d4KPQGy62U8tdWs0tzdFtweb0L_AnaopNy8ku5c2WqXnWM8v_zWRFDHjDlYw32qeUhmAPBhrCYimh5aPGhjT2GK18RFfvrCAM_QgrMg6S4-9JCWu5DnD8AvjoqSc)
+
+## Limites du projet et perspectives d'amélioration :
+```diff 
+- !!! Il est nécessaire de rentrer 2 fois son login / mot-de-passe pour accéder au jeu.
+```
+
+Un système de **reverse proxy** aurait pu être mis en place afin d'augmenter la résilience du projet et sa tolérance aux fautes.
+
+Un système de consultation des logs et de métrcis de perofrmances aurait pû être ajouté afin de monitorer différents micro-services.
