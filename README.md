@@ -11,6 +11,8 @@ Ouvrir un terminal => aller dans le dossier du projet en utilisant la commande "
 - !!! Pour profiter pleinement de l'expérience, il est conseillé d'activer le son sur son PC.
 
 - !!! Si vous êtes épileptique ou sensible aux flashs, faites attention à la page score. 
+
+@@ Note : actuellement le motà deviner s'affiche sur la page index.html pour permettre de le deviner plus facilement. Mais il est possible d'ajouter **style="display:none"** à la balsie ligne 44 du fichier de code pour réellement jouer au jeu.
 ```
 
 ## Règles du jeu du MOTUS
