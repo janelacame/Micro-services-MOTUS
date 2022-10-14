@@ -7,7 +7,11 @@ Par BORGET Valentin et JANELA CAMEIJO Alice
 ## Run le projet
 Ouvrir un terminal => aller dans le dossier du projet en utilisant la commande "cd" => écrire "(sudo) docker-compose up".
 
-Pour profiter pleinement de l'expérience, il est conseillé d'activer le son sur son PC.
+```diff 
+- !!! Pour profiter pleinement de l'expérience, il est conseillé d'activer le son sur son PC.
+
+- !!! Si vous êtes épileptique ou sensible aux flashs, faites attention à la page score. 
+```
 
 ## Règles du jeu du MOTUS
 Le joueur doit se connecter au jeu en entrant son login et son mot de passe dans le formulaire de la page **login.html**. Il est ensuite redirigé vers la page **index.html**.
